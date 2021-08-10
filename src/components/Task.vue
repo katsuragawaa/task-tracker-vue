@@ -1,6 +1,6 @@
 <template>
   <div
-    @dblclick="$emit('toggle-reminder')"
+		@dblclick="$emit('toggle-reminder', task.id)"
     :class="[task.reminder ? 'reminder' : '', 'task']"
   >
     <h3>

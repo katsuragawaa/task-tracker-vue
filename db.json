@@ -19,10 +19,22 @@
       "reminder": true
     },
     {
-      "text": "asdas",
-      "day": "asdasd",
+      "text": "Aniversário do Leônidas",
+      "day": "Dia 10/08 às 15:15",
+      "reminder": false,
+      "id": "k9EYcE7"
+    },
+    {
+      "text": "Gravar vídeo",
+      "day": "Agora",
+      "reminder": false,
+      "id": "BcR2eKJ"
+    },
+    {
+      "text": "Tomar café",
+      "day": "De manhã",
       "reminder": true,
-      "id": "StFUYtO"
+      "id": "tBaw-Iy"
     }
   ]
 }
